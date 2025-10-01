@@ -1,6 +1,12 @@
 # SPARK_2025
 
-<img src="https://github.com/user-attachments/assets/d291bb42-4f55-4a34-8bb1-fe4393a7ed22" alt="SPARK banner" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/d291bb42-4f55-4a34-8bb1-fe4393a7ed22" 
+    alt="SPARK banner"
+    style="max-width: 900px; width: 100%; height: auto;"
+  />
+</p>
 
 The code and data repository for SPARK, a kinase-substrate association predictor that utilizes a variety of novel methods, is now here! SPARK is the XG-Boost driven predictor submitted to the S. -T. Yau High School Science Award in Biology. 
 
@@ -8,4 +14,4 @@ This repository contains the whole code and data used, generated, and processed 
 
 To access the information, click [here](https://web.ugreen.cloud/web/#/share/89bd41defb314b15aae12e909ca40ee0), access code: `8578`. 
 
-This repository wil be updated in the future to only include the relevant code, but not data for SPARK. The data will be available in the future on Kaggle. 
+This repository will be updated in the future to only include the relevant code, but not data for SPARK. The data will be available in the future on Kaggle. 
