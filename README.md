@@ -1,19 +1,12 @@
 # SPARK_2025
 
-<div align="center" style="width: 100%;">
-  <img
-    src="https://github.com/user-attachments/assets/d291bb42-4f55-4a34-8bb1-fe4393a7ed22"
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/d291bb42-4f55-4a34-8bb1-fe4393a7ed22" 
     alt="SPARK banner"
-    style="
-      width: 100%;
-      max-width: 1200px;
-      height: 160px;
-      object-fit: cover;
-      object-position: center;
-      display: block;
-    "
+    style="max-width: 900px; width: 100%; height: auto;"
   />
-</div>
+</p>
 
 The code and data repository for SPARK, a kinase-substrate association predictor that utilizes a variety of novel methods, is now here! SPARK is the XG-Boost driven predictor submitted to the S. -T. Yau High School Science Award in Biology. 
 
